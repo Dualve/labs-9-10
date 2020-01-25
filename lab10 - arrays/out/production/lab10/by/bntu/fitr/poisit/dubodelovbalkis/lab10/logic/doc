@@ -1,0 +1,6 @@
+In a vector consisting of n real elements, calculate:
+
+1) the sum of the negative elements
+2) and the composition of the elements
+
+between the maximum and minimum elements of the vector.
